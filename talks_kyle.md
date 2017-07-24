@@ -32,8 +32,7 @@
 | 01:35 p.m.–02:05 p.m. | <ul><li>[ ] Analysing a TwitterBot using TextBlob, NLTK and Python talk by Lachlan Blackhall</li><li>[ ] Call a C API from Python becomes more enjoyable with CFFI talk by Jean-Sébastien Bevilacqua</li><li>[ ] Scaling Down: Running Large Sites Locally talk by Andrew Godwin</li><li>[x] **The Importance of Design: maybe the users aren't wrong? talk by Charelle Collett**</li></ul> |
 | 02:15 p.m.–02:45 p.m. | <ul><li>[x] **Mocking: virtual reality for your Python tests talk by Raphael Merx**</li><li>[ ] Organizing conferences for learners: How we made it work in Namibia talk by Jessica Upani</li><li>[ ] Wordsmiths - Operational Transformation in Python talk by Dion Misic</li></ul> |
 | 02:15 p.m.–03:25 p.m. | <ul><li>[ ] Identity 2.0: the what, why and how of social and federated login talk by Fraser Tweedale</li></ul> |
-| 02:55 p.m.–03:10 p.m. | <ul><li>[ ] Stereo Vision talk by Hail Kim</li><li>[ ] The Business of Community talk by VM (Vicky) Brasseur</li><li>[x] **Front-end integration testing for back-end developers talk by Nick Coghlan**</li></ul> |
-| 03:10 p.m.–03:25 p.m. | <ul><li>[ ] Automated Python Powered Turret talk by Isaac McClure</li></ul> |
+| 02:55 p.m.–03:25 p.m. | <ul><li>[ ] Automated Python Powered Turret talk by Isaac McClure and Hail Kim</li><li>[ ] The Business of Community talk by VM (Vicky) Brasseur</li><li>[x] **Front-end integration testing for back-end developers talk by Nick Coghlan**</li></ul> |
 | 03:25 p.m.–04:10 p.m. | <ul><li>[x] **Afternoon Tea**</li></ul> |
 | 04:10 p.m.–04:40 p.m. | <ul><li>[ ] GraphQL: how to make clients enjoy using your API talk by Tomasz Modrzyński</li><li>[x] **We're no strangers to VoIP: Building the National Rick Astley Hotline talk by Paul '@pjf' Fenwick**</li></ul> |
 | 04:50 p.m.–06:00 p.m. | <ul><li>[x] **Lightning Talks**</li></ul> |
